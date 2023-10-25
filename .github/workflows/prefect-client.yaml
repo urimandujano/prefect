@@ -80,4 +80,3 @@ jobs:
         with:
           name: ${{ inputs.artifact-name }}
           path: "${{ env.TMPDIR }}/dist"
-```     # trying this out
