@@ -9,7 +9,7 @@ client_version = ".".join(_version[:3]).split("+")[0]
 
 setup(
     # Package metadata
-    name="prefect-client",
+    name="uriel-pc-tests",
     description="Workflow orchestration and management.",
     author="Prefect Technologies, Inc.",
     author_email="help@prefect.io",
